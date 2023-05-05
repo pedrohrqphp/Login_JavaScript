@@ -1,0 +1,51 @@
+body {
+    background-color: gray;
+}
+
+h1 {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+h2 {
+    color: white;
+    font-size:large;
+    margin: 20px;
+    text-align: center;
+}
+
+form {
+    margin: 50px;
+}
+
+label {
+    margin: 10px;
+}
+
+.card {
+    margin: 10% 30%;
+}
+
+.card button {
+    /*width: 100px;*/
+    margin: 10px 30% 10px 30%;
+}
+
+/*===================================*/
+
+figure {
+    background-color: whitesmoke;
+    border-radius: 12px;
+    margin: 7% 30%;
+    padding: 40px;
+}
+
+img {
+    width: 200px;
+}
+
+figcaption {
+    margin: 20px;
+}
